@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephiethomas/EmployeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephiethomas/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/stephiethomas/EmployeeTracker#readme",
+  "description": ""
+}
